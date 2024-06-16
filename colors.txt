@@ -1,5 +1,5 @@
-orange,
 gray,
 blue,
+orange,
 red,
 green
